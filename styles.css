@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+input {
+    display: block;
+    margin-bottom: 1em;
+}
